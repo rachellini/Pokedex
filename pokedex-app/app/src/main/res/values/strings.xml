@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_load_screen">PokéMania</string>
+    <string name="title_activity_pokemon_detail">Pokémon</string>
+    <string name="action_search">\"Pokemon Search\"</string>
+</resources>
